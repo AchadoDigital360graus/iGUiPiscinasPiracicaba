@@ -1,8 +1,8 @@
 {
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "start_url": "index.htm",
  "name": "iGUi PISCINAS PIRACICABA",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
